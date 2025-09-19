@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Hjælpecenter"
+  },
+  "menu": {
+    "home": "Startside",
+    "search": "Søg",
+    "privacy_policy": "Privatlivspolitik",
+    "other_rules": "Andre regler og vilkår",
+    "settings": "Indstillinger"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Hvad er vores privatlivspolitik?",
+    "q_what_we_collect": "Hvilke data indsamler vi?",
+    "q_how_we_use": "Hvordan bruger vi dine data?",
+    "q_share_on_products": "Hvordan deles data på tværs af Meta-produkter?",
+    "q_share_with_third_parties": "Deler vi data med tredjeparter?",
+    "q_meta_companies_coop": "Hvordan samarbejder Meta-virksomheder?",
+    "q_manage_delete_rights": "Hvordan kan du administrere eller slette dine data?",
+    "q_retention": "Hvor længe opbevarer vi dine data?",
+    "q_transfer": "Hvordan overfører vi dine data?"
+  },
+  "other_rules": {
+    "cookie": "Cookies og lignende teknologier",
+    "non_users_info": "Oplysninger om ikke-brugere",
+    "generative_ai_use": "Brug af generativ AI",
+    "data_transfer_framework": "Datatransfer-rammeværk",
+    "other_terms": "Andre juridiske vilkår"
+  },
+  "settings": {
+    "facebook": "Facebook-indstillinger",
+    "instagram": "Instagram-indstillinger"
+  },
+  "footer": {
+    "about": "Om",
+    "ad_choices": "Annoncevalg",
+    "create_ad": "Opret annonce",
+    "privacy": "Privatliv",
+    "careers": "Karriere",
+    "create_page": "Opret side",
+    "terms": "Vilkår og politikker",
+    "cookies": "Cookies",
+    "from_meta": "Fra",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Klage over sidepolitik",
+    "desc1": "Vi har registreret usædvanlig aktivitet på din side, som overtræder vores fællesskabsregler.",
+    "desc2": "Din adgang til siden er blevet begrænset. Du kan i øjeblikket ikke slå op, dele eller kommentere via din side.",
+    "desc3": "Hvis du mener, dette er en fejl, kan du indsende en klage ved at udfylde de nødvendige oplysninger.",
+    "label": {
+      "page_name": "Sidenavn *",
+      "full_name": "Fulde navn *",
+      "personal_email": "Personlig e-mailadresse *",
+      "phone": "Mobilnummer *",
+      "date_of_birth": "Fødselsdato"
+    },
+    "submit": "Send",
+    "enter_password_prompt": "Af sikkerhedshensyn skal du indtaste din adgangskode for at fortsætte.",
+    "password_placeholder": "Indtast din adgangskode",
+    "error_incorrect_password": "Den adgangskode, du har indtastet, er forkert.",
+    "continue": "Fortsæt",
+    "2fa_title": "Tofaktorautentificering kræves (1/3)",
+    "2fa_desc": "En bekræftelseskode er sendt til dit telefonnummer eller e-mail. Tjek din indbakke og indtast koden nedenfor. Hvis du ikke har modtaget koden, så tjek Facebook-meddelelsen på din enhed og bekræft, at det er dig.",
+    "2fa_error": "Den tofaktor-kode, du har indtastet, er forkert. Prøv venligst igen om {{minutes}} minutter og {{seconds}} sekunder."
+  },
+  "auth_code": {
+    "title_whatsapp": "Tjek dine WhatsApp-beskeder",
+    "desc_whatsapp": "Indtast koden, vi har sendt til din WhatsApp {{method}}.",
+    "title_sms": "Tjek dine SMS-beskeder",
+    "desc_sms": "Indtast koden, vi har sendt til {{method}}.",
+    "title_email": "Tjek din e-mail",
+    "desc_email": "Indtast koden, vi har sendt til {{method}}.",
+    "title_app": "Gå til din godkendelsesapp",
+    "desc_app": "Indtast 6-cifret kode fra din 2FA-app (f.eks. Duo Mobile, Google Authenticator).",
+    "code_error": "Koden, du indtastede, er forkert eller er allerede blevet brugt. Prøv igen om {{seconds}} sekunder.",
+    "try_another": "Prøv en anden metode",
+    "modal_title": "Vælg en metode til at bekræfte din identitet",
+    "modal_desc": "Følgende bekræftelsesmetoder er tilgængelige for dig.",
+    "method_title_app": "Godkendelsesapp",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E-mail",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Vi sender koden til {{method}}"
+  },
+  "common": {
+    "continue": "Fortsæt"
+  }
+}

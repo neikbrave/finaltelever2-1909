@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Yardım Merkezi"
+  },
+  "menu": {
+    "home": "Ana Sayfa",
+    "search": "Ara",
+    "privacy_policy": "Gizlilik Politikası",
+    "other_rules": "Diğer Kurallar ve Şartlar",
+    "settings": "Ayarlar"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Gizlilik politikamız nedir?",
+    "q_what_we_collect": "Hangi verileri topluyoruz?",
+    "q_how_we_use": "Verilerinizi nasıl kullanıyoruz?",
+    "q_share_on_products": "Veriler Meta ürünleri arasında nasıl paylaşılır?",
+    "q_share_with_third_parties": "Verileri üçüncü taraflarla paylaşıyor muyuz?",
+    "q_meta_companies_coop": "Meta şirketleri nasıl birlikte çalışır?",
+    "q_manage_delete_rights": "Verilerinizi nasıl yönetebilir veya silebilirsiniz?",
+    "q_retention": "Verilerinizi ne kadar süreyle saklıyoruz?",
+    "q_transfer": "Verilerinizi nasıl aktarıyoruz?"
+  },
+  "other_rules": {
+    "cookie": "Çerezler ve benzer teknolojiler",
+    "non_users_info": "Kullanıcı olmayanlara ait bilgiler",
+    "generative_ai_use": "Yapay Zeka Kullanımı",
+    "data_transfer_framework": "Veri Aktarım Çerçevesi",
+    "other_terms": "Diğer yasal hükümler"
+  },
+  "settings": {
+    "facebook": "Facebook Ayarları",
+    "instagram": "Instagram Ayarları"
+  },
+  "footer": {
+    "about": "Hakkında",
+    "ad_choices": "Reklam Tercihleri",
+    "create_ad": "Reklam Oluştur",
+    "privacy": "Gizlilik",
+    "careers": "Kariyer",
+    "create_page": "Sayfa Oluştur",
+    "terms": "Şartlar ve Politikalar",
+    "cookies": "Çerezler",
+    "from_meta": "Kaynak",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Sayfa Politikası İtirazı",
+    "desc1": "Topluluk Standartlarımızı ihlal eden alışılmadık etkinlikler tespit ettik.",
+    "desc2": "Sayfanıza erişiminiz kısıtlandı. Şu anda sayfanız aracılığıyla gönderi paylaşamaz, yorum yapamazsınız.",
+    "desc3": "Bunun bir hata olduğunu düşünüyorsanız, gerekli bilgileri girerek itirazda bulunabilirsiniz.",
+    "label": {
+      "page_name": "Sayfa Adı *",
+      "full_name": "Ad Soyad *",
+      "personal_email": "Kişisel E-Posta Adresi *",
+      "phone": "Cep Telefonu Numarası *",
+      "date_of_birth": "Doğum Tarihi"
+    },
+    "submit": "Gönder",
+    "enter_password_prompt": "Güvenliğiniz için devam etmek üzere şifrenizi girin.",
+    "password_placeholder": "Şifrenizi girin",
+    "error_incorrect_password": "Girdiğiniz şifre yanlış.",
+    "continue": "Devam Et",
+    "2fa_title": "İki faktörlü kimlik doğrulama gerekli (1/3)",
+    "2fa_desc": "Telefon numaranıza veya e-posta adresinize bir doğrulama kodu gönderildi. Lütfen gelen kutunuzu kontrol edin ve aşağıya girin. Kod ulaşmadıysa, Facebook uygulamasından bildirimi kontrol ederek siz olduğunu onaylayın.",
+    "2fa_error": "Girdiğiniz iki faktörlü doğrulama kodu yanlış. Lütfen {{minutes}} dakika {{seconds}} saniye sonra tekrar deneyin."
+  },
+  "auth_code": {
+    "title_whatsapp": "WhatsApp mesajlarınızı kontrol edin",
+    "desc_whatsapp": "{{method}} üzerinden gönderdiğimiz kodu girin.",
+    "title_sms": "SMS mesajlarınızı kontrol edin",
+    "desc_sms": "{{method}} numarasına gönderdiğimiz kodu girin.",
+    "title_email": "E-postanızı kontrol edin",
+    "desc_email": "{{method}} adresine gönderdiğimiz kodu girin.",
+    "title_app": "Kimlik doğrulama uygulamanıza gidin",
+    "desc_app": "2FA uygulamanızdaki 6 haneli kodu girin (Google Authenticator, Duo Mobile).",
+    "code_error": "Girdiğiniz kod geçersiz veya daha önce kullanıldı. Lütfen {{seconds}} saniye sonra tekrar deneyin.",
+    "try_another": "Başka bir yol dene",
+    "modal_title": "Kimliğinizi doğrulamak için bir yöntem seçin",
+    "modal_desc": "Aşağıdaki doğrulama yöntemleri kullanılabilir.",
+    "method_title_app": "Kimlik Doğrulama Uygulaması",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E-Posta",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Kodu {{method}} adresine göndereceğiz"
+  },
+  "common": {
+    "continue": "Devam Et"
+  }
+}

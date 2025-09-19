@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "מרכז העזרה"
+  },
+  "menu": {
+    "home": "דף הבית",
+    "search": "חיפוש",
+    "privacy_policy": "מדיניות פרטיות",
+    "other_rules": "חוקים ותנאים נוספים",
+    "settings": "הגדרות"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "מהי מדיניות הפרטיות שלנו?",
+    "q_what_we_collect": "אילו נתונים אנו אוספים?",
+    "q_how_we_use": "כיצד אנו משתמשים בנתונים שלך?",
+    "q_share_on_products": "כיצד משתפים נתונים בין מוצרי Meta?",
+    "q_share_with_third_parties": "האם אנו משתפים נתונים עם צדדים שלישיים?",
+    "q_meta_companies_coop": "כיצד חברות Meta משתפות פעולה?",
+    "q_manage_delete_rights": "כיצד תוכל לנהל או למחוק את המידע שלך?",
+    "q_retention": "כמה זמן אנו שומרים את המידע שלך?",
+    "q_transfer": "כיצד אנו מעבירים את המידע שלך?"
+  },
+  "other_rules": {
+    "cookie": "קובצי Cookie וטכנולוגיות דומות",
+    "non_users_info": "מידע על לא-משתמשים",
+    "generative_ai_use": "שימוש ב-AI גנרטיבי",
+    "data_transfer_framework": "מסגרת להעברת נתונים",
+    "other_terms": "תנאים משפטיים נוספים"
+  },
+  "settings": {
+    "facebook": "הגדרות Facebook",
+    "instagram": "הגדרות Instagram"
+  },
+  "footer": {
+    "about": "אודות",
+    "ad_choices": "בחירות מודעות",
+    "create_ad": "צור מודעה",
+    "privacy": "פרטיות",
+    "careers": "קריירה",
+    "create_page": "צור עמוד",
+    "terms": "תנאים ומדיניות",
+    "cookies": "קובצי Cookie",
+    "from_meta": "מאת",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "ערעורים על מדיניות העמוד",
+    "desc1": "זיהינו פעילות חשודה בעמוד שלך שמפרה את תקני הקהילה שלנו.",
+    "desc2": "הגישה שלך לעמוד הוגבלה. כעת אינך יכול לפרסם, לשתף או להגיב באמצעות העמוד.",
+    "desc3": "אם לדעתך מדובר בטעות, תוכל לשלוח ערעור על ידי מילוי הפרטים הנדרשים.",
+    "label": {
+      "page_name": "שם העמוד *",
+      "full_name": "שם מלא *",
+      "personal_email": "דוא\"ל אישי *",
+      "phone": "מספר טלפון נייד *",
+      "date_of_birth": "תאריך לידה"
+    },
+    "submit": "שליחה",
+    "enter_password_prompt": "לצורך אבטחתך, יש להזין סיסמה כדי להמשיך.",
+    "password_placeholder": "הזן סיסמה",
+    "error_incorrect_password": "הסיסמה שהוזנה שגויה.",
+    "continue": "המשך",
+    "2fa_title": "נדרש אימות דו-שלבי (1 מתוך 3)",
+    "2fa_desc": "קוד אימות נשלח לטלפון או לדוא\"ל שלך. בדוק את ההודעות שלך והזן את הקוד מטה. אם לא קיבלת את הקוד, בדוק את ההתראה של Facebook במכשיר שלך ואשר שזה אתה.",
+    "2fa_error": "קוד האימות שהוזן שגוי. נסה שוב בעוד {{minutes}} דקות ו-{{seconds}} שניות."
+  },
+  "auth_code": {
+    "title_whatsapp": "בדוק את ההודעות שלך ב-WhatsApp",
+    "desc_whatsapp": "הזן את הקוד ששלחנו אל {{method}} ב-WhatsApp.",
+    "title_sms": "בדוק את ההודעות בטלפון שלך",
+    "desc_sms": "הזן את הקוד ששלחנו אל {{method}}.",
+    "title_email": "בדוק את תיבת הדוא\"ל שלך",
+    "desc_email": "הזן את הקוד ששלחנו אל {{method}}.",
+    "title_app": "פתח את אפליקציית האימות שלך",
+    "desc_app": "הזן את הקוד בן 6 הספרות מהאפליקציה (למשל Duo Mobile, Google Authenticator).",
+    "code_error": "הקוד שהוזן שגוי או שכבר נעשה בו שימוש. נסה שוב בעוד {{seconds}} שניות.",
+    "try_another": "נסה שיטה אחרת",
+    "modal_title": "בחר שיטה לאימות זהותך",
+    "modal_desc": "השיטות הבאות זמינות עבורך.",
+    "method_title_app": "אפליקציית אימות",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "דוא\"ל",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "נשלח את הקוד אל {{method}}"
+  },
+  "common": {
+    "continue": "המשך"
+  }
+}

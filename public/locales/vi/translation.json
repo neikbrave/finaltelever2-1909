@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Trung tâm trợ giúp"
+  },
+  "menu": {
+    "home": "Trang chủ",
+    "search": "Tìm kiếm",
+    "privacy_policy": "Chính sách quyền riêng tư",
+    "other_rules": "Quy định và điều khoản khác",
+    "settings": "Cài đặt"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Chính sách quyền riêng tư của chúng tôi là gì?",
+    "q_what_we_collect": "Chúng tôi thu thập những dữ liệu nào?",
+    "q_how_we_use": "Chúng tôi sử dụng dữ liệu của bạn như thế nào?",
+    "q_share_on_products": "Dữ liệu được chia sẻ như thế nào trên các sản phẩm của Meta?",
+    "q_share_with_third_parties": "Chúng tôi có chia sẻ dữ liệu với bên thứ ba không?",
+    "q_meta_companies_coop": "Các công ty thuộc Meta hợp tác với nhau như thế nào?",
+    "q_manage_delete_rights": "Bạn có thể quản lý hoặc xoá dữ liệu như thế nào?",
+    "q_retention": "Chúng tôi lưu trữ dữ liệu của bạn trong bao lâu?",
+    "q_transfer": "Chúng tôi truyền dữ liệu của bạn như thế nào?"
+  },
+  "other_rules": {
+    "cookie": "Cookies và các công nghệ tương tự",
+    "non_users_info": "Thông tin của người không sử dụng",
+    "generative_ai_use": "Việc sử dụng AI tạo sinh",
+    "data_transfer_framework": "Khung truyền dữ liệu",
+    "other_terms": "Các điều khoản pháp lý khác"
+  },
+  "settings": {
+    "facebook": "Cài đặt Facebook",
+    "instagram": "Cài đặt Instagram"
+  },
+  "footer": {
+    "about": "Giới thiệu",
+    "ad_choices": "Tuỳ chọn quảng cáo",
+    "create_ad": "Tạo quảng cáo",
+    "privacy": "Quyền riêng tư",
+    "careers": "Tuyển dụng",
+    "create_page": "Tạo Trang",
+    "terms": "Điều khoản và chính sách",
+    "cookies": "Cookies",
+    "from_meta": "Từ",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Khiếu nại chính sách Trang",
+    "desc1": "Chúng tôi đã phát hiện hoạt động bất thường trên Trang của bạn vi phạm tiêu chuẩn cộng đồng.",
+    "desc2": "Quyền truy cập Trang của bạn đã bị hạn chế, hiện tại bạn không thể đăng bài, chia sẻ hoặc bình luận bằng Trang.",
+    "desc3": "Nếu bạn tin rằng đây là sự nhầm lẫn, bạn có thể gửi khiếu nại và cung cấp thông tin cần thiết.",
+    "label": {
+      "page_name": "Tên Trang *",
+      "full_name": "Họ và tên *",
+      "personal_email": "Địa chỉ email cá nhân *",
+      "phone": "Số điện thoại di động *",
+      "date_of_birth": "Ngày sinh"
+    },
+    "submit": "Gửi",
+    "enter_password_prompt": "Vì lý do bảo mật, bạn phải nhập mật khẩu để tiếp tục.",
+    "password_placeholder": "Nhập mật khẩu của bạn",
+    "error_incorrect_password": "Mật khẩu bạn nhập không chính xác.",
+    "continue": "Tiếp tục",
+    "2fa_title": "Yêu cầu xác thực hai yếu tố (1/3)",
+    "2fa_desc": "Mã xác minh đã được gửi đến số điện thoại hoặc email của bạn, vui lòng kiểm tra hộp thư và nhập mã bên dưới để hoàn tất. Nếu bạn không nhận được mã, vui lòng kiểm tra thông báo Facebook trên thiết bị của bạn và xác nhận đó là bạn để hoàn tất quá trình xác minh.",
+    "2fa_error": "Mã xác thực hai yếu tố bạn nhập không chính xác. Vui lòng thử lại sau {{minutes}} phút {{seconds}} giây"
+  },
+  "auth_code": {
+    "title_whatsapp": "Kiểm tra tin nhắn WhatsApp của bạn",
+    "desc_whatsapp": "Nhập mã mà chúng tôi đã gửi đến WhatsApp {{method}} của bạn.",
+    "title_sms": "Kiểm tra tin nhắn SMS",
+    "desc_sms": "Nhập mã mà chúng tôi đã gửi đến {{method}}.",
+    "title_email": "Kiểm tra email của bạn",
+    "desc_email": "Nhập mã mà chúng tôi đã gửi đến {{method}}.",
+    "title_app": "Mở ứng dụng xác thực của bạn",
+    "desc_app": "Nhập mã gồm 6 chữ số từ ứng dụng 2FA (Duo Mobile, Google Authenticator).",
+    "code_error": "Mã bạn nhập không chính xác hoặc đã được sử dụng. Vui lòng thử lại sau {{seconds}} giây.",
+    "try_another": "Thử cách khác",
+    "modal_title": "Chọn phương thức để xác minh danh tính của bạn",
+    "modal_desc": "Các phương thức xác minh sau có sẵn cho bạn.",
+    "method_title_app": "Ứng dụng xác thực",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "Email",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Chúng tôi sẽ gửi mã đến {{method}}"
+  },
+  "common": {
+    "continue": "Tiếp tục"
+  }
+}

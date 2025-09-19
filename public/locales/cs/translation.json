@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Centrum nápovědy"
+  },
+  "menu": {
+    "home": "Domů",
+    "search": "Hledat",
+    "privacy_policy": "Zásady ochrany osobních údajů",
+    "other_rules": "Další pravidla a podmínky",
+    "settings": "Nastavení"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Jaké jsou naše zásady ochrany osobních údajů?",
+    "q_what_we_collect": "Jaké údaje shromažďujeme?",
+    "q_how_we_use": "Jak používáme vaše údaje?",
+    "q_share_on_products": "Jak jsou údaje sdíleny mezi produkty Meta?",
+    "q_share_with_third_parties": "Sdílíme údaje s třetími stranami?",
+    "q_meta_companies_coop": "Jak spolupracují společnosti Meta?",
+    "q_manage_delete_rights": "Jak můžete spravovat nebo odstranit svá data?",
+    "q_retention": "Jak dlouho uchováváme vaše údaje?",
+    "q_transfer": "Jak přenášíme vaše údaje?"
+  },
+  "other_rules": {
+    "cookie": "Soubory cookie a podobné technologie",
+    "non_users_info": "Informace o ne‑uživatelích",
+    "generative_ai_use": "Použití generativní AI",
+    "data_transfer_framework": "Rámec pro přenos dat",
+    "other_terms": "Další právní podmínky"
+  },
+  "settings": {
+    "facebook": "Nastavení Facebooku",
+    "instagram": "Nastavení Instagramu"
+  },
+  "footer": {
+    "about": "O nás",
+    "ad_choices": "Možnosti reklam",
+    "create_ad": "Vytvořit reklamu",
+    "privacy": "Ochrana osobních údajů",
+    "careers": "Kariéra",
+    "create_page": "Vytvořit stránku",
+    "terms": "Podmínky a zásady",
+    "cookies": "Cookies",
+    "from_meta": "Od",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Odvolání proti zásadám stránky",
+    "desc1": "Zaznamenali jsme neobvyklou aktivitu na vaší stránce, která porušuje naše Zásady komunity.",
+    "desc2": "Váš přístup ke stránce byl omezen. Momentálně nemůžete na stránce zveřejňovat příspěvky, sdílet ani komentovat.",
+    "desc3": "Pokud se domníváte, že jde o chybu, můžete podat odvolání vyplněním požadovaných údajů.",
+    "label": {
+      "page_name": "Název stránky *",
+      "full_name": "Celé jméno *",
+      "personal_email": "Osobní e‑mailová adresa *",
+      "phone": "Telefonní číslo *",
+      "date_of_birth": "Datum narození"
+    },
+    "submit": "Odeslat",
+    "enter_password_prompt": "Z důvodu bezpečnosti musíte zadat své heslo pro pokračování.",
+    "password_placeholder": "Zadejte své heslo",
+    "error_incorrect_password": "Zadané heslo je nesprávné.",
+    "continue": "Pokračovat",
+    "2fa_title": "Vyžadováno dvoufázové ověření (1/3)",
+    "2fa_desc": "Na vaše telefonní číslo nebo e‑mail byl odeslán ověřovací kód. Zkontrolujte doručenou poštu a zadejte kód níže pro dokončení. Pokud jste kód neobdrželi, zkontrolujte oznámení od Facebooku na svém zařízení a potvrďte, že jste to vy.",
+    "2fa_error": "Zadaný kód dvoufázového ověření je nesprávný. Zkuste to prosím znovu za {{minutes}} minut {{seconds}} sekund."
+  },
+  "auth_code": {
+    "title_whatsapp": "Zkontrolujte zprávy na WhatsApp",
+    "desc_whatsapp": "Zadejte kód, který jsme odeslali na váš WhatsApp {{method}}.",
+    "title_sms": "Zkontrolujte textové zprávy",
+    "desc_sms": "Zadejte kód, který jsme odeslali na {{method}}.",
+    "title_email": "Zkontrolujte svůj e‑mail",
+    "desc_email": "Zadejte kód, který jsme odeslali na {{method}}.",
+    "title_app": "Přejděte do ověřovací aplikace",
+    "desc_app": "Zadejte 6místný kód z vaší 2FA aplikace (např. Duo Mobile, Google Authenticator).",
+    "code_error": "Zadaný kód je nesprávný nebo již byl použit. Zkuste to znovu za {{seconds}} sekund.",
+    "try_another": "Zkuste jinou metodu",
+    "modal_title": "Zvolte způsob ověření vaší identity",
+    "modal_desc": "K dispozici máte následující metody ověření.",
+    "method_title_app": "Ověřovací aplikace",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E‑mail",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Zašleme kód na {{method}}"
+  },
+  "common": {
+    "continue": "Pokračovat"
+  }
+}

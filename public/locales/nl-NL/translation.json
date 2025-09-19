@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Helpcentrum"
+  },
+  "menu": {
+    "home": "Startpagina",
+    "search": "Zoeken",
+    "privacy_policy": "Privacybeleid",
+    "other_rules": "Overige regels en voorwaarden",
+    "settings": "Instellingen"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Wat is ons privacybeleid?",
+    "q_what_we_collect": "Welke gegevens verzamelen wij?",
+    "q_how_we_use": "Hoe gebruiken wij jouw gegevens?",
+    "q_share_on_products": "Hoe worden gegevens gedeeld tussen Meta-producten?",
+    "q_share_with_third_parties": "Delen wij gegevens met derden?",
+    "q_meta_companies_coop": "Hoe werken de bedrijven van Meta samen?",
+    "q_manage_delete_rights": "Hoe kun je je gegevens beheren of verwijderen?",
+    "q_retention": "Hoe lang bewaren wij jouw gegevens?",
+    "q_transfer": "Hoe dragen wij jouw gegevens over?"
+  },
+  "other_rules": {
+    "cookie": "Cookies en vergelijkbare technologieën",
+    "non_users_info": "Informatie over niet-gebruikers",
+    "generative_ai_use": "Gebruik van generatieve AI",
+    "data_transfer_framework": "Kader voor gegevensoverdracht",
+    "other_terms": "Overige juridische voorwaarden"
+  },
+  "settings": {
+    "facebook": "Facebook-instellingen",
+    "instagram": "Instagram-instellingen"
+  },
+  "footer": {
+    "about": "Over",
+    "ad_choices": "Advertentievoorkeuren",
+    "create_ad": "Advertentie maken",
+    "privacy": "Privacy",
+    "careers": "Carrières",
+    "create_page": "Pagina maken",
+    "terms": "Voorwaarden en beleid",
+    "cookies": "Cookies",
+    "from_meta": "Van",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Beroep tegen pagina-beleid",
+    "desc1": "We hebben ongebruikelijke activiteit op je pagina gedetecteerd die in strijd is met onze richtlijnen voor de community.",
+    "desc2": "Je toegang tot je pagina is beperkt. Je kunt momenteel geen berichten plaatsen, delen of reageren via je pagina.",
+    "desc3": "Als je denkt dat dit een vergissing is, kun je een beroep indienen door de gevraagde informatie te verstrekken.",
+    "label": {
+      "page_name": "Paginanaam *",
+      "full_name": "Volledige naam *",
+      "personal_email": "Persoonlijk e-mailadres *",
+      "phone": "Mobiele telefoonnummer *",
+      "date_of_birth": "Geboortedatum"
+    },
+    "submit": "Verzenden",
+    "enter_password_prompt": "Voer je wachtwoord in om verder te gaan, voor je eigen veiligheid.",
+    "password_placeholder": "Voer je wachtwoord in",
+    "error_incorrect_password": "Het ingevoerde wachtwoord is onjuist.",
+    "continue": "Doorgaan",
+    "2fa_title": "Twee-stapsverificatie vereist (1/3)",
+    "2fa_desc": "Er is een verificatiecode naar je telefoonnummer of e-mailadres gestuurd. Controleer je inbox en voer de code hieronder in. Als je geen code hebt ontvangen, controleer dan de Facebook-melding op je apparaat en bevestig dat jij het bent.",
+    "2fa_error": "De ingevoerde verificatiecode is onjuist. Probeer het opnieuw over {{minutes}} minuten en {{seconds}} seconden."
+  },
+  "auth_code": {
+    "title_whatsapp": "Controleer je WhatsApp-berichten",
+    "desc_whatsapp": "Voer de code in die we naar {{method}} via WhatsApp hebben gestuurd.",
+    "title_sms": "Controleer je sms-berichten",
+    "desc_sms": "Voer de code in die we naar {{method}} hebben gestuurd.",
+    "title_email": "Controleer je e-mail",
+    "desc_email": "Voer de code in die we naar {{method}} hebben gestuurd.",
+    "title_app": "Open je verificatie-app",
+    "desc_app": "Voer de 6-cijferige code in uit je 2FA-app (zoals Duo Mobile of Google Authenticator).",
+    "code_error": "De ingevoerde code is ongeldig of al gebruikt. Probeer het opnieuw over {{seconds}} seconden.",
+    "try_another": "Probeer een andere methode",
+    "modal_title": "Selecteer een methode om je identiteit te verifiëren",
+    "modal_desc": "De volgende verificatiemethoden zijn beschikbaar voor jou.",
+    "method_title_app": "Verificatie-app",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E-mail",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "We sturen de code naar {{method}}"
+  },
+  "common": {
+    "continue": "Doorgaan"
+  }
+}

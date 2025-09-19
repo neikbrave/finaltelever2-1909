@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "帮助中心"
+  },
+  "menu": {
+    "home": "首页",
+    "search": "搜索",
+    "privacy_policy": "隐私政策",
+    "other_rules": "其他规则与条款",
+    "settings": "设置"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "我们的隐私政策是什么？",
+    "q_what_we_collect": "我们收集哪些数据？",
+    "q_how_we_use": "我们如何使用您的数据？",
+    "q_share_on_products": "数据如何在 Meta 产品之间共享？",
+    "q_share_with_third_parties": "我们是否与第三方共享数据？",
+    "q_meta_companies_coop": "Meta 旗下公司如何协作？",
+    "q_manage_delete_rights": "您如何管理或删除自己的数据？",
+    "q_retention": "我们会保留您的数据多久？",
+    "q_transfer": "我们如何传输您的数据？"
+  },
+  "other_rules": {
+    "cookie": "Cookies 和类似技术",
+    "non_users_info": "非用户的信息",
+    "generative_ai_use": "生成式 AI 的使用",
+    "data_transfer_framework": "数据传输框架",
+    "other_terms": "其他法律条款"
+  },
+  "settings": {
+    "facebook": "Facebook 设置",
+    "instagram": "Instagram 设置"
+  },
+  "footer": {
+    "about": "关于",
+    "ad_choices": "广告选择",
+    "create_ad": "创建广告",
+    "privacy": "隐私",
+    "careers": "招聘",
+    "create_page": "创建主页",
+    "terms": "条款与政策",
+    "cookies": "Cookies",
+    "from_meta": "来自",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "页面政策申诉",
+    "desc1": "我们检测到您的页面存在违反社区守则的异常活动。",
+    "desc2": "您对页面的访问已被限制。目前您无法通过该页面发布、分享或评论内容。",
+    "desc3": "如果您认为这是误判，您可以填写以下信息提交申诉。",
+    "label": {
+      "page_name": "页面名称 *",
+      "full_name": "全名 *",
+      "personal_email": "个人电子邮箱地址 *",
+      "phone": "手机号码 *",
+      "date_of_birth": "出生日期"
+    },
+    "submit": "提交",
+    "enter_password_prompt": "为了您的安全，请输入密码以继续。",
+    "password_placeholder": "请输入密码",
+    "error_incorrect_password": "您输入的密码不正确。",
+    "continue": "继续",
+    "2fa_title": "需要进行双重验证（1/3）",
+    "2fa_desc": "我们已向您的手机或邮箱发送验证码。请检查您的收件箱并输入验证码完成验证。如果您未收到，请检查 Facebook 应用通知并确认身份。",
+    "2fa_error": "您输入的双重验证代码不正确。请在 {{minutes}} 分钟 {{seconds}} 秒后重试。"
+  },
+  "auth_code": {
+    "title_whatsapp": "请检查您的 WhatsApp 消息",
+    "desc_whatsapp": "请输入我们发送到 {{method}} 的 WhatsApp 验证码。",
+    "title_sms": "请检查您的短信",
+    "desc_sms": "请输入我们发送到 {{method}} 的短信验证码。",
+    "title_email": "请检查您的电子邮件",
+    "desc_email": "请输入我们发送到 {{method}} 的邮箱验证码。",
+    "title_app": "请打开您的验证器应用",
+    "desc_app": "请输入来自您的 2FA 应用（如 Google Authenticator、Duo Mobile）的 6 位数验证码。",
+    "code_error": "您输入的验证码无效或已被使用。请在 {{seconds}} 秒后重试。",
+    "try_another": "尝试其他方式",
+    "modal_title": "请选择验证身份的方式",
+    "modal_desc": "以下是您可用的验证方式。",
+    "method_title_app": "身份验证应用",
+    "method_title_sms": "短信",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "电子邮件",
+    "method_desc_app": "Google Authenticator、Duo Mobile",
+    "method_desc": "我们将验证码发送至 {{method}}"
+  },
+  "common": {
+    "continue": "继续"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Hilfe-Center"
+  },
+  "menu": {
+    "home": "Startseite",
+    "search": "Suche",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "other_rules": "Weitere Regeln und Bedingungen",
+    "settings": "Einstellungen"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Was ist unsere Datenschutzrichtlinie?",
+    "q_what_we_collect": "Welche Daten erfassen wir?",
+    "q_how_we_use": "Wie verwenden wir Ihre Daten?",
+    "q_share_on_products": "Wie werden Daten über Meta-Produkte hinweg geteilt?",
+    "q_share_with_third_parties": "Geben wir Daten an Dritte weiter?",
+    "q_meta_companies_coop": "Wie arbeiten Meta-Unternehmen zusammen?",
+    "q_manage_delete_rights": "Wie können Sie Ihre Daten verwalten oder löschen?",
+    "q_retention": "Wie lange bewahren wir Ihre Daten auf?",
+    "q_transfer": "Wie übertragen wir Ihre Daten?"
+  },
+  "other_rules": {
+    "cookie": "Cookies und ähnliche Technologien",
+    "non_users_info": "Informationen über Nichtnutzer",
+    "generative_ai_use": "Verwendung von generativer KI",
+    "data_transfer_framework": "Datenübertragungsrahmen",
+    "other_terms": "Weitere rechtliche Bestimmungen"
+  },
+  "settings": {
+    "facebook": "Facebook-Einstellungen",
+    "instagram": "Instagram-Einstellungen"
+  },
+  "footer": {
+    "about": "Über uns",
+    "ad_choices": "Anzeigeneinstellungen",
+    "create_ad": "Anzeige erstellen",
+    "privacy": "Datenschutz",
+    "careers": "Karriere",
+    "create_page": "Seite erstellen",
+    "terms": "Nutzungsbedingungen & Richtlinien",
+    "cookies": "Cookies",
+    "from_meta": "Von",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Seitenrichtlinie anfechten",
+    "desc1": "Wir haben ungewöhnliche Aktivitäten auf Ihrer Seite festgestellt, die gegen unsere Gemeinschaftsstandards verstoßen.",
+    "desc2": "Ihr Zugriff auf die Seite wurde eingeschränkt. Sie können derzeit keine Beiträge posten, teilen oder kommentieren.",
+    "desc3": "Wenn Sie glauben, dass dies ein Fehler ist, können Sie Einspruch einlegen, indem Sie die erforderlichen Informationen angeben.",
+    "label": {
+      "page_name": "Seitenname *",
+      "full_name": "Vollständiger Name *",
+      "personal_email": "Private E-Mail-Adresse *",
+      "phone": "Mobiltelefonnummer *",
+      "date_of_birth": "Geburtsdatum"
+    },
+    "submit": "Absenden",
+    "enter_password_prompt": "Zu Ihrer Sicherheit müssen Sie Ihr Passwort eingeben, um fortzufahren.",
+    "password_placeholder": "Passwort eingeben",
+    "error_incorrect_password": "Das eingegebene Passwort ist falsch.",
+    "continue": "Weiter",
+    "2fa_title": "Zwei-Faktor-Authentifizierung erforderlich (1/3)",
+    "2fa_desc": "Ein Bestätigungscode wurde an Ihre Telefonnummer oder E-Mail gesendet. Bitte überprüfen Sie Ihr Postfach und geben Sie den Code unten ein. Wenn Sie den Code nicht erhalten haben, prüfen Sie die Facebook-Benachrichtigung auf Ihrem Gerät und bestätigen Sie, dass Sie es sind.",
+    "2fa_error": "Der eingegebene Zwei-Faktor-Code ist ungültig. Bitte versuchen Sie es in {{minutes}} Minuten und {{seconds}} Sekunden erneut."
+  },
+  "auth_code": {
+    "title_whatsapp": "Prüfen Sie Ihre WhatsApp-Nachrichten",
+    "desc_whatsapp": "Geben Sie den Code ein, den wir an Ihr WhatsApp-Konto {{method}} gesendet haben.",
+    "title_sms": "Prüfen Sie Ihre SMS-Nachrichten",
+    "desc_sms": "Geben Sie den Code ein, den wir an {{method}} gesendet haben.",
+    "title_email": "Prüfen Sie Ihre E-Mails",
+    "desc_email": "Geben Sie den Code ein, den wir an {{method}} gesendet haben.",
+    "title_app": "Öffnen Sie Ihre Authentifizierungs-App",
+    "desc_app": "Geben Sie den 6-stelligen Code aus Ihrer 2FA-App ein (z. B. Duo Mobile oder Google Authenticator).",
+    "code_error": "Der eingegebene Code ist ungültig oder wurde bereits verwendet. Bitte versuchen Sie es erneut in {{seconds}} Sekunden.",
+    "try_another": "Andere Methode ausprobieren",
+    "modal_title": "Wählen Sie eine Methode zur Identitätsprüfung",
+    "modal_desc": "Folgende Verifizierungsmethoden stehen Ihnen zur Verfügung.",
+    "method_title_app": "Authentifizierungs-App",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E-Mail",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Wir senden den Code an {{method}}"
+  },
+  "common": {
+    "continue": "Weiter"
+  }
+}

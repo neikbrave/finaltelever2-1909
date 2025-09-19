@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Centro assistenza"
+  },
+  "menu": {
+    "home": "Home",
+    "search": "Cerca",
+    "privacy_policy": "Informativa sulla privacy",
+    "other_rules": "Altri termini e condizioni",
+    "settings": "Impostazioni"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Qual è la nostra informativa sulla privacy?",
+    "q_what_we_collect": "Quali dati raccogliamo?",
+    "q_how_we_use": "Come utilizziamo i tuoi dati?",
+    "q_share_on_products": "Come vengono condivisi i dati tra i prodotti Meta?",
+    "q_share_with_third_parties": "Condividiamo i dati con terze parti?",
+    "q_meta_companies_coop": "Come collaborano le aziende Meta?",
+    "q_manage_delete_rights": "Come puoi gestire o eliminare i tuoi dati?",
+    "q_retention": "Per quanto tempo conserviamo i tuoi dati?",
+    "q_transfer": "Come trasferiamo i tuoi dati?"
+  },
+  "other_rules": {
+    "cookie": "Cookie e tecnologie simili",
+    "non_users_info": "Informazioni sui non utenti",
+    "generative_ai_use": "Uso dell’intelligenza artificiale generativa",
+    "data_transfer_framework": "Quadro per il trasferimento dei dati",
+    "other_terms": "Altri termini legali"
+  },
+  "settings": {
+    "facebook": "Impostazioni Facebook",
+    "instagram": "Impostazioni Instagram"
+  },
+  "footer": {
+    "about": "Informazioni",
+    "ad_choices": "Preferenze annunci",
+    "create_ad": "Crea inserzione",
+    "privacy": "Privacy",
+    "careers": "Carriere",
+    "create_page": "Crea una pagina",
+    "terms": "Termini e politiche",
+    "cookies": "Cookie",
+    "from_meta": "Da",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Contestazioni della politica della Pagina",
+    "desc1": "Abbiamo rilevato attività sospette sulla tua Pagina che violano i nostri Standard della community.",
+    "desc2": "L’accesso alla tua Pagina è stato limitato. Al momento non puoi pubblicare, condividere o commentare utilizzando la Pagina.",
+    "desc3": "Se ritieni che si tratti di un errore, puoi presentare ricorso fornendo le informazioni richieste.",
+    "label": {
+      "page_name": "Nome della Pagina *",
+      "full_name": "Nome completo *",
+      "personal_email": "Indirizzo e-mail personale *",
+      "phone": "Numero di cellulare *",
+      "date_of_birth": "Data di nascita"
+    },
+    "submit": "Invia",
+    "enter_password_prompt": "Per motivi di sicurezza, inserisci la tua password per continuare.",
+    "password_placeholder": "Inserisci la password",
+    "error_incorrect_password": "La password inserita non è corretta.",
+    "continue": "Continua",
+    "2fa_title": "Autenticazione a due fattori richiesta (1/3)",
+    "2fa_desc": "Un codice di verifica è stato inviato al tuo numero di telefono o indirizzo e-mail. Controlla la tua casella e inserisci il codice qui sotto. Se non lo hai ricevuto, controlla la notifica di Facebook sul tuo dispositivo e conferma la tua identità.",
+    "2fa_error": "Il codice inserito non è corretto. Riprova tra {{minutes}} minuti e {{seconds}} secondi."
+  },
+  "auth_code": {
+    "title_whatsapp": "Controlla i tuoi messaggi WhatsApp",
+    "desc_whatsapp": "Inserisci il codice che ti abbiamo inviato su WhatsApp a {{method}}.",
+    "title_sms": "Controlla i tuoi SMS",
+    "desc_sms": "Inserisci il codice che ti abbiamo inviato a {{method}}.",
+    "title_email": "Controlla la tua e-mail",
+    "desc_email": "Inserisci il codice che ti abbiamo inviato a {{method}}.",
+    "title_app": "Apri la tua app di autenticazione",
+    "desc_app": "Inserisci il codice a 6 cifre dalla tua app di autenticazione a due fattori (es. Duo Mobile, Google Authenticator).",
+    "code_error": "Il codice inserito è errato o è già stato utilizzato. Riprova tra {{seconds}} secondi.",
+    "try_another": "Prova un altro metodo",
+    "modal_title": "Seleziona un metodo per verificare la tua identità",
+    "modal_desc": "I seguenti metodi di verifica sono disponibili per te.",
+    "method_title_app": "App di autenticazione",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E-mail",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Invieremo il codice a {{method}}"
+  },
+  "common": {
+    "continue": "Continua"
+  }
+}

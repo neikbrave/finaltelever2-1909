@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Súgóközpont"
+  },
+  "menu": {
+    "home": "Kezdőlap",
+    "search": "Keresés",
+    "privacy_policy": "Adatvédelmi irányelvek",
+    "other_rules": "Egyéb szabályok és feltételek",
+    "settings": "Beállítások"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Mi az adatvédelmi irányelvünk?",
+    "q_what_we_collect": "Milyen adatokat gyűjtünk?",
+    "q_how_we_use": "Hogyan használjuk fel az adataidat?",
+    "q_share_on_products": "Hogyan osztjuk meg az adatokat a Meta termékei között?",
+    "q_share_with_third_parties": "Megosztjuk az adatokat harmadik felekkel?",
+    "q_meta_companies_coop": "Hogyan működnek együtt a Meta vállalatok?",
+    "q_manage_delete_rights": "Hogyan kezelheted vagy törölheted adataidat?",
+    "q_retention": "Mennyi ideig őrizzük meg az adataidat?",
+    "q_transfer": "Hogyan továbbítjuk az adataidat?"
+  },
+  "other_rules": {
+    "cookie": "Sütik és hasonló technológiák",
+    "non_users_info": "Nem felhasználókra vonatkozó információk",
+    "generative_ai_use": "Generatív mesterséges intelligencia használata",
+    "data_transfer_framework": "Adattovábbítási keretrendszer",
+    "other_terms": "Egyéb jogi feltételek"
+  },
+  "settings": {
+    "facebook": "Facebook-beállítások",
+    "instagram": "Instagram-beállítások"
+  },
+  "footer": {
+    "about": "Rólunk",
+    "ad_choices": "Hirdetési beállítások",
+    "create_ad": "Hirdetés létrehozása",
+    "privacy": "Adatvédelem",
+    "careers": "Karrier",
+    "create_page": "Oldal létrehozása",
+    "terms": "Feltételek és szabályzatok",
+    "cookies": "Sütik",
+    "from_meta": "Meta által",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Oldalszabályzat elleni fellebbezések",
+    "desc1": "Rendellenes tevékenységet észleltünk az oldaladon, amely megsérti közösségi irányelveinket.",
+    "desc2": "Az oldaladhoz való hozzáférés korlátozásra került. Jelenleg nem tudsz posztolni, megosztani vagy hozzászólni az oldal nevében.",
+    "desc3": "Ha úgy gondolod, hogy ez tévedés, fellebbezhetsz az alábbi adatok megadásával.",
+    "label": {
+      "page_name": "Oldal neve *",
+      "full_name": "Teljes név *",
+      "personal_email": "Személyes e-mail cím *",
+      "phone": "Mobiltelefonszám *",
+      "date_of_birth": "Születési dátum"
+    },
+    "submit": "Beküldés",
+    "enter_password_prompt": "A biztonságod érdekében add meg a jelszavad a folytatáshoz.",
+    "password_placeholder": "Írd be a jelszavad",
+    "error_incorrect_password": "A megadott jelszó helytelen.",
+    "continue": "Folytatás",
+    "2fa_title": "Kétlépcsős azonosítás szükséges (1/3)",
+    "2fa_desc": "Ellenőrző kódot küldtünk a telefonodra vagy az e-mail címedre. Kérjük, ellenőrizd az üzeneteidet, és add meg a kódot. Ha nem kaptál kódot, ellenőrizd a Facebook-értesítést a készülékeden, és igazold, hogy te vagy az.",
+    "2fa_error": "A megadott kód érvénytelen. Próbáld újra {{minutes}} perc és {{seconds}} másodperc múlva."
+  },
+  "auth_code": {
+    "title_whatsapp": "Ellenőrizd a WhatsApp-üzeneteidet",
+    "desc_whatsapp": "Írd be a kódot, amit a(z) {{method}} címre küldtünk WhatsAppon.",
+    "title_sms": "Ellenőrizd az SMS-eidet",
+    "desc_sms": "Írd be a kódot, amit a(z) {{method}} számra küldtünk.",
+    "title_email": "Ellenőrizd az e-mailed",
+    "desc_email": "Írd be a kódot, amit a(z) {{method}} címre küldtünk.",
+    "title_app": "Nyisd meg a hitelesítési alkalmazást",
+    "desc_app": "Írd be a 6 jegyű kódot a 2FA alkalmazásodból (pl. Duo Mobile, Google Authenticator).",
+    "code_error": "A megadott kód hibás vagy már fel lett használva. Próbáld újra {{seconds}} másodperc múlva.",
+    "try_another": "Próbálj ki egy másik módot",
+    "modal_title": "Válassz azonosítási módot",
+    "modal_desc": "Az alábbi azonosítási módok állnak rendelkezésedre.",
+    "method_title_app": "Hitelesítési alkalmazás",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "E-mail",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "A kódot elküldjük a(z) {{method}} címre"
+  },
+  "common": {
+    "continue": "Folytatás"
+  }
+}

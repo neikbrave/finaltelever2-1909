@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "說明中心"
+  },
+  "menu": {
+    "home": "首頁",
+    "search": "搜尋",
+    "privacy_policy": "隱私權政策",
+    "other_rules": "其他規則與條款",
+    "settings": "設定"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "我們的隱私權政策是什麼？",
+    "q_what_we_collect": "我們會收集哪些資料？",
+    "q_how_we_use": "我們會如何使用您的資料？",
+    "q_share_on_products": "資料如何在 Meta 的產品間分享？",
+    "q_share_with_third_parties": "我們是否會與第三方分享資料？",
+    "q_meta_companies_coop": "Meta 旗下公司如何合作？",
+    "q_manage_delete_rights": "您可以如何管理或刪除自己的資料？",
+    "q_retention": "我們會保留您的資料多久？",
+    "q_transfer": "我們會如何傳輸您的資料？"
+  },
+  "other_rules": {
+    "cookie": "Cookies 與類似技術",
+    "non_users_info": "非用戶資料",
+    "generative_ai_use": "生成式 AI 的使用",
+    "data_transfer_framework": "資料傳輸架構",
+    "other_terms": "其他法律條款"
+  },
+  "settings": {
+    "facebook": "Facebook 設定",
+    "instagram": "Instagram 設定"
+  },
+  "footer": {
+    "about": "關於",
+    "ad_choices": "廣告選項",
+    "create_ad": "建立廣告",
+    "privacy": "隱私",
+    "careers": "人才招募",
+    "create_page": "建立粉絲專頁",
+    "terms": "條款與政策",
+    "cookies": "Cookies",
+    "from_meta": "來自",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "粉絲專頁政策申訴",
+    "desc1": "我們偵測到您的專頁有違反社群守則的異常活動。",
+    "desc2": "您目前無法使用該專頁發文、留言或分享內容。",
+    "desc3": "如果您認為這是誤判，請提供下列資訊以提交申訴。",
+    "label": {
+      "page_name": "專頁名稱 *",
+      "full_name": "全名 *",
+      "personal_email": "個人電子信箱 *",
+      "phone": "行動電話號碼 *",
+      "date_of_birth": "出生日期"
+    },
+    "submit": "提交",
+    "enter_password_prompt": "為了您的帳號安全，請輸入密碼以繼續。",
+    "password_placeholder": "請輸入密碼",
+    "error_incorrect_password": "您輸入的密碼不正確。",
+    "continue": "繼續",
+    "2fa_title": "需要雙重驗證（1/3）",
+    "2fa_desc": "我們已將驗證碼發送至您的手機號碼或電子信箱，請查收並輸入驗證碼完成驗證。若未收到，請查看 Facebook 應用程式通知並確認是您本人操作。",
+    "2fa_error": "您輸入的驗證碼不正確，請於 {{minutes}} 分 {{seconds}} 秒後再試一次。"
+  },
+  "auth_code": {
+    "title_whatsapp": "請查看您的 WhatsApp 訊息",
+    "desc_whatsapp": "請輸入我們發送至 {{method}} 的 WhatsApp 驗證碼。",
+    "title_sms": "請查看您的簡訊",
+    "desc_sms": "請輸入我們發送至 {{method}} 的簡訊驗證碼。",
+    "title_email": "請查看您的電子信箱",
+    "desc_email": "請輸入我們發送至 {{method}} 的電子郵件驗證碼。",
+    "title_app": "請開啟您的驗證器應用程式",
+    "desc_app": "請輸入由 Google Authenticator 或 Duo Mobile 應用程式產生的 6 位數驗證碼。",
+    "code_error": "您輸入的驗證碼無效或已被使用，請於 {{seconds}} 秒後重試。",
+    "try_another": "嘗試其他方式",
+    "modal_title": "請選擇驗證身份的方式",
+    "modal_desc": "您可以使用以下任一可用驗證方式。",
+    "method_title_app": "驗證器應用程式",
+    "method_title_sms": "簡訊",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "電子郵件",
+    "method_desc_app": "Google Authenticator、Duo Mobile",
+    "method_desc": "我們將把驗證碼發送至 {{method}}"
+  },
+  "common": {
+    "continue": "繼續"
+  }
+}

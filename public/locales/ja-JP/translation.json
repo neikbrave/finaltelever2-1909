@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "ヘルプセンター"
+  },
+  "menu": {
+    "home": "ホーム",
+    "search": "検索",
+    "privacy_policy": "プライバシーポリシー",
+    "other_rules": "その他の規約と条件",
+    "settings": "設定"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "当社のプライバシーポリシーとは？",
+    "q_what_we_collect": "どのようなデータを収集しますか？",
+    "q_how_we_use": "データはどのように利用されますか？",
+    "q_share_on_products": "Metaの製品間でのデータ共有方法は？",
+    "q_share_with_third_parties": "第三者とデータを共有しますか？",
+    "q_meta_companies_coop": "Meta関連会社はどのように連携していますか？",
+    "q_manage_delete_rights": "データの管理や削除はどうすればよいですか？",
+    "q_retention": "データはどのくらいの期間保存されますか？",
+    "q_transfer": "データはどのように転送されますか？"
+  },
+  "other_rules": {
+    "cookie": "Cookieおよび類似技術",
+    "non_users_info": "非ユーザーに関する情報",
+    "generative_ai_use": "生成AIの利用について",
+    "data_transfer_framework": "データ転送フレームワーク",
+    "other_terms": "その他の法的条件"
+  },
+  "settings": {
+    "facebook": "Facebook設定",
+    "instagram": "Instagram設定"
+  },
+  "footer": {
+    "about": "会社情報",
+    "ad_choices": "広告の選択肢",
+    "create_ad": "広告を作成",
+    "privacy": "プライバシー",
+    "careers": "採用情報",
+    "create_page": "ページを作成",
+    "terms": "利用規約とポリシー",
+    "cookies": "Cookie",
+    "from_meta": "提供元：",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "ページポリシーに関する異議申し立て",
+    "desc1": "あなたのページで、コミュニティ規定に違反する異常な活動が検出されました。",
+    "desc2": "ページへのアクセスが制限されています。現在、投稿・共有・コメントができません。",
+    "desc3": "誤検出と思われる場合は、必要な情報を記入して異議を申し立てることができます。",
+    "label": {
+      "page_name": "ページ名 *",
+      "full_name": "氏名 *",
+      "personal_email": "個人のメールアドレス *",
+      "phone": "携帯電話番号 *",
+      "date_of_birth": "生年月日"
+    },
+    "submit": "送信",
+    "enter_password_prompt": "セキュリティのため、パスワードを入力してください。",
+    "password_placeholder": "パスワードを入力",
+    "error_incorrect_password": "入力されたパスワードが正しくありません。",
+    "continue": "続行",
+    "2fa_title": "2段階認証が必要です（1/3）",
+    "2fa_desc": "確認コードが電話番号またはメールアドレスに送信されました。受信ボックスを確認し、下にコードを入力してください。コードが届かない場合は、Facebookからの通知をご確認ください。",
+    "2fa_error": "入力された2段階認証コードが無効です。{{minutes}}分{{seconds}}秒後に再試行してください。"
+  },
+  "auth_code": {
+    "title_whatsapp": "WhatsAppのメッセージを確認してください",
+    "desc_whatsapp": "{{method}} に送信されたコードを入力してください。",
+    "title_sms": "SMSメッセージを確認してください",
+    "desc_sms": "{{method}} に送信されたコードを入力してください。",
+    "title_email": "メールを確認してください",
+    "desc_email": "{{method}} に送信されたコードを入力してください。",
+    "title_app": "認証アプリを開いてください",
+    "desc_app": "2段階認証アプリ（Duo Mobile、Google Authenticatorなど）に表示されている6桁のコードを入力してください。",
+    "code_error": "入力されたコードは無効か、すでに使用されています。{{seconds}}秒後に再試行してください。",
+    "try_another": "別の方法を試す",
+    "modal_title": "本人確認方法を選択してください",
+    "modal_desc": "以下の認証方法が利用可能です。",
+    "method_title_app": "認証アプリ",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "メール",
+    "method_desc_app": "Google Authenticator、Duo Mobile",
+    "method_desc": "{{method}} にコードを送信します"
+  },
+  "common": {
+    "continue": "続行"
+  }
+}

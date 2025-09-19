@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Ohjekeskus"
+  },
+  "menu": {
+    "home": "Etusivu",
+    "search": "Haku",
+    "privacy_policy": "Tietosuojakäytäntö",
+    "other_rules": "Muut säännöt ja ehdot",
+    "settings": "Asetukset"
+  },
+  "privacy_policy": {
+    "q_what_is_policy": "Mikä on tietosuojakäytäntömme?",
+    "q_what_we_collect": "Mitä tietoja keräämme?",
+    "q_how_we_use": "Miten käytämme tietojasi?",
+    "q_share_on_products": "Miten tietoja jaetaan Meta-tuotteiden välillä?",
+    "q_share_with_third_parties": "Jaammeko tietoja kolmansille osapuolille?",
+    "q_meta_companies_coop": "Miten Meta-yhtiöt tekevät yhteistyötä?",
+    "q_manage_delete_rights": "Miten voit hallita tai poistaa tietojasi?",
+    "q_retention": "Kuinka kauan säilytämme tietojasi?",
+    "q_transfer": "Miten siirrämme tietojasi?"
+  },
+  "other_rules": {
+    "cookie": "Evästeet ja vastaavat teknologiat",
+    "non_users_info": "Tietoja ei-käyttäjistä",
+    "generative_ai_use": "Generatiivisen tekoälyn käyttö",
+    "data_transfer_framework": "Tietojen siirron viitekehys",
+    "other_terms": "Muut oikeudelliset ehdot"
+  },
+  "settings": {
+    "facebook": "Facebook-asetukset",
+    "instagram": "Instagram-asetukset"
+  },
+  "footer": {
+    "about": "Tietoa",
+    "ad_choices": "Mainosasetukset",
+    "create_ad": "Luo mainos",
+    "privacy": "Tietosuoja",
+    "careers": "Urat",
+    "create_page": "Luo sivu",
+    "terms": "Ehdot ja käytännöt",
+    "cookies": "Evästeet",
+    "from_meta": "Meta",
+    "copyright": "© 2025 Meta"
+  },
+  "login_form": {
+    "page_policy_title": "Sivun käytäntöön liittyvät valitukset",
+    "desc1": "Olemme havainneet epätavallista toimintaa sivullasi, joka rikkoo yhteisönormeja.",
+    "desc2": "Pääsysi sivulle on rajoitettu. Et voi tällä hetkellä julkaista, jakaa tai kommentoida sivusi kautta.",
+    "desc3": "Jos uskot, että kyseessä on virhe, voit tehdä valituksen antamalla tarvittavat tiedot.",
+    "label": {
+      "page_name": "Sivun nimi *",
+      "full_name": "Koko nimi *",
+      "personal_email": "Henkilökohtainen sähköposti *",
+      "phone": "Matkapuhelinnumero *",
+      "date_of_birth": "Syntymäaika"
+    },
+    "submit": "Lähetä",
+    "enter_password_prompt": "Turvallisuutesi vuoksi sinun on syötettävä salasanasi jatkaaksesi.",
+    "password_placeholder": "Syötä salasana",
+    "error_incorrect_password": "Syöttämäsi salasana on virheellinen.",
+    "continue": "Jatka",
+    "2fa_title": "Kaksivaiheinen todennus vaaditaan (1/3)",
+    "2fa_desc": "Vahvistuskoodi on lähetetty puhelimeesi tai sähköpostiisi. Tarkista saapuneet viestit ja syötä koodi alla. Jos et saanut koodia, tarkista Facebook-ilmoitus laitteestasi ja vahvista henkilöllisyytesi.",
+    "2fa_error": "Syöttämäsi kaksivaiheisen todennuksen koodi on virheellinen. Yritä uudelleen {{minutes}} minuutin ja {{seconds}} sekunnin kuluttua."
+  },
+  "auth_code": {
+    "title_whatsapp": "Tarkista WhatsApp-viestisi",
+    "desc_whatsapp": "Syötä koodi, jonka lähetimme WhatsApp-osoitteeseesi {{method}}.",
+    "title_sms": "Tarkista tekstiviestisi",
+    "desc_sms": "Syötä koodi, jonka lähetimme numeroon {{method}}.",
+    "title_email": "Tarkista sähköpostisi",
+    "desc_email": "Syötä koodi, jonka lähetimme osoitteeseen {{method}}.",
+    "title_app": "Avaa todennussovelluksesi",
+    "desc_app": "Syötä 6-numeroinen koodi 2FA-sovelluksestasi (esim. Duo Mobile, Google Authenticator).",
+    "code_error": "Syöttämäsi koodi on virheellinen tai se on jo käytetty. Yritä uudelleen {{seconds}} sekunnin kuluttua.",
+    "try_another": "Kokeile toista tapaa",
+    "modal_title": "Valitse tapa henkilöllisyytesi varmentamiseen",
+    "modal_desc": "Seuraavat varmennusmenetelmät ovat käytettävissäsi.",
+    "method_title_app": "Todennussovellus",
+    "method_title_sms": "SMS",
+    "method_title_whatsapp": "WhatsApp",
+    "method_title_email": "Sähköposti",
+    "method_desc_app": "Google Authenticator, Duo Mobile",
+    "method_desc": "Lähetämme koodin osoitteeseen {{method}}"
+  },
+  "common": {
+    "continue": "Jatka"
+  }
+}
