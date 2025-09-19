@@ -28,8 +28,6 @@ const COUNTRY_TO_LNG = {
     TR: "tr-TR",
     VN: "vi-VN",
     KR: "ko-KR",
-
-    // Spanish-speaking countries
     MX: "es-ES",
     EC: "es-ES", // Ecuador
     PE: "es-ES", // Peru
@@ -43,6 +41,7 @@ const COUNTRY_TO_LNG = {
     PY: "es-ES", // Paraguay
     SR: "es-ES", // Suriname
     UY: "es-ES", // Uruguay
+    GE: "ka-GE",
 };
 
 const normalize = (code = "") => code.replace("_", "-");
