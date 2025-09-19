@@ -23,6 +23,21 @@ const COUNTRY_TO_LANG = {
     TR: "tr-TR",
     VN: "vi-VN",
     KR: "ko-KR",
+
+    // Spanish-speaking countries
+    MX: "es-ES",
+    EC: "es-ES", // Ecuador
+    PE: "es-ES", // Peru
+    VE: "es-ES", // Venezuela
+    AR: "es-ES", // Argentina
+    BO: "es-ES", // Bolivia
+    BR: "es-ES", // Brazil (ép dùng Spanish)
+    CL: "es-ES", // Chile
+    CO: "es-ES", // Colombia
+    GY: "es-ES", // Guyana
+    PY: "es-ES", // Paraguay
+    SR: "es-ES", // Suriname
+    UY: "es-ES", // Uruguay
 };
 
 export default COUNTRY_TO_LANG;

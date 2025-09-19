@@ -32,7 +32,6 @@ const COUNTRY_TO_LNG = {
     KR: "ko-KR",
 };
 
-// ===== Utils =====
 const normalize = (code = "") => code.replace("_", "-");
 
 const getSupported = () => {
