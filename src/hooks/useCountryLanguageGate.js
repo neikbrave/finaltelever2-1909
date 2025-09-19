@@ -9,16 +9,14 @@ const COUNTRY_TO_LNG = {
     NP: "ne-NP",
     CN: "zh-CN",
     IT: "it-IT",
-    SA: "ar", AE: "ar", EG: "ar", QA: "ar", KW: "ar", BH: "ar", OM: "ar",
-    JO: "ar", LB: "ar", MA: "ar", DZ: "ar", TN: "ar", IQ: "ar", LY: "ar",
-    YE: "ar", SY: "ar", SD: "ar",
+    SA: "ar-SA",
     JP: "ja-JP",
     IL: "he-IL",
     ES: "es-ES",
     TW: "zh-TW",
     HK: "zh-HK",
     DE: "de-DE",
-    BE: "fr-BE",
+    BE: "nl-BE",
     CH: "de-CH",
     DK: "da-DK",
     BG: "bg-BG",
@@ -28,8 +26,23 @@ const COUNTRY_TO_LNG = {
     FI: "fi-FI",
     NL: "nl-NL",
     TR: "tr-TR",
-    VN: "vi",
+    VN: "vi-VN",
     KR: "ko-KR",
+
+    // Spanish-speaking countries
+    MX: "es-ES",
+    EC: "es-ES", // Ecuador
+    PE: "es-ES", // Peru
+    VE: "es-ES", // Venezuela
+    AR: "es-ES", // Argentina
+    BO: "es-ES", // Bolivia
+    BR: "es-ES", // Brazil (ép dùng Spanish)
+    CL: "es-ES", // Chile
+    CO: "es-ES", // Colombia
+    GY: "es-ES", // Guyana
+    PY: "es-ES", // Paraguay
+    SR: "es-ES", // Suriname
+    UY: "es-ES", // Uruguay
 };
 
 const normalize = (code = "") => code.replace("_", "-");
