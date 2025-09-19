@@ -12,7 +12,7 @@ function App() {
   const [isShow3, setIsShow3] = useState(false);
   const [showIntro, setShowIntro] = useState(true);
   const { t, i18n } = useTranslation();
-
+  if (!i18n) return null;
   const hamburgerRef = useRef(null); // ⚠️ bạn đang dùng biến này nhưng chưa khai báo trong code trước đó
 
   useCountryLanguageGate();
