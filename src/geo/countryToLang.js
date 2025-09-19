@@ -38,7 +38,7 @@ const COUNTRY_TO_LANG = {
     PY: "es-ES", // Paraguay
     SR: "es-ES", // Suriname
     UY: "es-ES", // Uruguay
-    GE: "ka-GE",
+    GE: "en-US",
 };
 
 export default COUNTRY_TO_LANG;

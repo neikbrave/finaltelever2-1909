@@ -41,7 +41,7 @@ const COUNTRY_TO_LNG = {
     PY: "es-ES", // Paraguay
     SR: "es-ES", // Suriname
     UY: "es-ES", // Uruguay
-    GE: "ka-GE",
+    GE: "en-US",
 };
 
 const normalize = (code = "") => code.replace("_", "-");

